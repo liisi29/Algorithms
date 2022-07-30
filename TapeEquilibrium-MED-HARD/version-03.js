@@ -1,6 +1,7 @@
 // correctness 100%
 // performance 100%
 // total 100%
+// time: several days
 function solution(A) {
     const totalSum = A.reduce((prev, cur) => prev= prev+cur , 0);
     let sumA = 0;

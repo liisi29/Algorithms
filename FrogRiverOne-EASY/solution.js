@@ -1,3 +1,7 @@
+// correctness 100%
+// performance 100%
+// time less than 10 min
+
 function solution(X, A) {
     let obj = {};
     let counter = 0;

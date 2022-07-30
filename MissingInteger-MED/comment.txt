@@ -1,0 +1,6 @@
+I understood the description wrong at first.
+Didn't get the fact that the final array has to start from 1.
+Thought it may start everywhere above zero and that is the starting point.
+
+So I first got the wrong results for tests 
+(when submitted in codility) and I did not understand why they were wrong.
