@@ -1,0 +1,2 @@
+It was MEDIUM, but actually very easy.
+No arrays, just math.

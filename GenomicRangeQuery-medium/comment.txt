@@ -1,0 +1,4 @@
+I really liked this one because all the solutions were short.
+I should have thought before that finding a character of 4 in a big array is
+a lot faster than every single time going throught the whole array.
+But yeah, I liked this one..
