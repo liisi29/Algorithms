@@ -1,0 +1,17 @@
+I took the solution from internet. It got 100%
+But I keep reading the exercise and I understand that 
+The product of triplet (P, Q, R) equates to 
+A[P] * A[Q] * A[R] (0 ≤ P < Q < R < N).
+For example, array A such that:
+
+  A[0] = -3
+  A[1] = 1
+  A[2] = 2
+  A[3] = -2
+  A[4] = 5
+  A[5] = 6
+
+  .. means that I cannot mix up the original order of elements.
+  So for [9,7,8,1,2,3]
+  the correct answer according to my understanding would be 1*2*3
+  But according this 100% solution its: 9*7*8
