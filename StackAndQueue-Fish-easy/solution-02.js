@@ -81,20 +81,3 @@ function getPredator1(firstIndex, direction, packOf1 = []) {
         const lastIndex = i-1;
         return {fighter: winner, lastIndex, potentialSurvivalCount: lastIndex - winnerIndex + 1};
     }
-    function getPredator(firstIndex, direction, packOf1 = []) {
-        let winner = ARRAY_A[firstIndex];
-        let winnerIndex = firstIndex;
-        if (packOf1.length > 0) {            
-            winner = packOf1[packOf1.length-1];
-            winnerIndex = -1;
-        }        
-        let i = firstIndex;
-        while(ARRAY_B[i] === direction) {
-            if (winner < ARRAY_A[i]) {
-                winner = ARRAY_A[i];
-                winnerIndex = i;
-            } 
-            i++;
-        }
-        return {winner, lastIndex: i-1, winnerIndex};
-    }
