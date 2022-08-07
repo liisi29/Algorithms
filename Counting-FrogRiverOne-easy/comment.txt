@@ -1,0 +1,4 @@
+
+From codility: Counting Elements
+https://codility.com/media/train/2-CountingElements.pdf
+It was very easy

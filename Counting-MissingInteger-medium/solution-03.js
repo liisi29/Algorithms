@@ -1,7 +1,7 @@
 // correctness 100%
 // performance 100%
 // total 100%
-// time long time. hours. at first I solved a wrong exercise because I understood wrong
+// time: long time. hours. at first I solved a wrong exercise because I understood wrong
 
 function solution(A) {
     const setOk = new Set();
