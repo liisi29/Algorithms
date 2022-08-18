@@ -1,6 +1,6 @@
 // correctness 100%
 // performance 100%
-// total 10%
+// total 100%
 // time - less than 10m
 
 // this was very easy after the total failure with counting angry fish
